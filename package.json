@@ -1,0 +1,22 @@
+{
+  "name": "hubot-jobtitles",
+  "version": "0.0.1",
+  "description": "Hubot script to generate web-related job titles",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanbrujo/hubot-jobtitles.git"
+  },
+  "keywords": [
+    "hubot",
+    "random",
+    "job",
+    "titles",
+    "generator"
+  ],
+  "author": "Jorge Epuñan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juanbrujo/hubot-jobtitles/issues"
+  }
+}
