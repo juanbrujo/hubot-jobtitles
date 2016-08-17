@@ -22,7 +22,7 @@ const pre = [
   'Chief',
   'Uber',
   'Senior',
-  'Leader',
+  'Lead',
   'UX',
   'Junior',
   'Ninja',
@@ -38,8 +38,11 @@ const post = [
   'Designer',
   'Maintainer',
   'Hacker',
-  'Ninja',
-  'Manager'
+  'Manager',
+  'Architect',
+  'Strategist',
+  'Specialist',
+  'Evangelist'
 ];
 
 const randomItem = array => array[~~(Math.random() * array.length)];
